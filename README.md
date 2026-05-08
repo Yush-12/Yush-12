@@ -6,15 +6,15 @@
   </em>
 </p>
 
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yush-12&show_icons=true&theme=radical" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yush-12&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
-</div>
+### 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+---
