@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I'm Aayush Awasthi
 
-<!--
-**Yush-12/Yush-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    Aspiring Cybersecurity Professional | Passionate about Threat Detection & Blue Teaming
+  </em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📌 Pinned Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yush-12&repo=threat-detection-portfolio&theme=radical)](https://github.com/Yush-12/threat-detection-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yush-12&repo=bank-iam-dashboard&theme=radical)](https://github.com/Yush-12/bank-iam-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yush-12&repo=purple-team-detection-validator&theme=radical)](https://github.com/Yush-12/purple-team-detection-validator)
