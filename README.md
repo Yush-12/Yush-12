@@ -80,9 +80,9 @@ I build **production-grade security tooling** that sits at the intersection of:
 
 | **Building** | **Learning** | **Open To** |
 |:---|:---|:---|
-| Advanced detection engineering pipelines | Cloud security (AWS/Azure) & K8s hardening | SOC Analyst / Detection Engineer roles |
-| Threat hunting playbooks & automation | eBPF-based runtime security | Blue team / Purple team internships |
-| Purple team validation at scale | Threat intelligence & adversary emulation | Open-source security collaborations |
+| Advanced detection engineering pipelines | Cloud security | SOC Analyst / Detection Engineer roles |
+| Threat hunting playbooks & automation | AI Security | Blue team / Purple team internships |
+| Purple team validation at scale | Threat intelligence | Open-source security collaborations |
 
 ---
 
