@@ -65,18 +65,10 @@ I build **production-grade security tooling** that sits at the intersection of:
 
 ## ▸ GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Yush-12">
-    <img src="assets/activity-2026.svg" alt="Live GitHub activity summary" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Generated automatically every 6 hours by <code>.github/workflows/update-profile-activity.yml</code>.</sub>
-</p>
-
-<details>
-  <summary><strong>More builds</strong></summary>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yush-12&theme=github-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yush-12&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" height="165" />
+</div>
 
 ---
 
