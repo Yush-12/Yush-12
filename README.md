@@ -3,7 +3,7 @@
 # AAYUSH AWASTHI
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Blue+Team+%7C+Detection+Engineering;Purple+Team+%7C+Offensive+Tooling;Building+the+SOC+of+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Blue+Team+%7C+Detection+Engineering;Purple+Team+%7C+Offensive+Tooling;I+build+secure+systems,+hunt+threats,+and+validate+defenses" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush0305)
@@ -18,12 +18,12 @@
 
 ```python
 class Aayush:
-    role       = "Aspiring Cybersecurity Engineer"
-    focus      = ["Threat Detection", "Blue Teaming", "Detection Engineering"]
-    frameworks = ["MITRE ATT&CK", "Sigma", "ISO 27001", "RBI IT Framework"]
-    currently  = "Building SIEM pipelines and purple-team validation tooling"
-    ask_me     = ["SOC workflows", "Elastic SIEM", "Sigma rules", "Pentesting"]
-    fun_fact   = "I automated the boring parts of IAM audits away"
+    pronouns: "he | him",
+    location: "India 🇮🇳",
+    focus: ["Blue Teaming", "Threat Detection", "Purple Teaming", "Security Automation"],
+    currentlyBuilding: "IAM dashboards, Purple Team validators, and Pentest reporting engines",
+    askMeAbout: ["MITRE ATT&CK", "Sigma Rules", "SIEM", "Python Security Tools", "Cloud Security"],
+    funFact: "I love turning complex security logs into actionable detection pipelines!"
 ```
 
 I build **production-grade security tooling** that sits at the intersection of:
@@ -38,25 +38,9 @@ I build **production-grade security tooling** that sits at the intersection of:
 
 ## ▸ Featured Projects
 
-| **[🛡️ Serverless SIEM Pipeline](https://github.com/Yush-12/threat-detection-portfolio)** **Next.js SOC Dashboard with Sigma + ATT&CK** 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-▪ 7 Sigma-format detection rules with MITRE ATT&CK enrichment ▪ Multi-stage incident correlation across adversary campaigns ▪ Entity risk scoring with time decay & behavioral profiling ▪ Global threat origins via TopoJSON choropleth ▪ 🔗 [Live Demo](https://threatdetectionportfolio.vercel.app) | **[🧪 Purple Team Detection Validator](https://github.com/Yush-12/purple-team-detection-validator)** **MITRE ATT&CK validation framework** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Elastic](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elastic&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-▪ Simulates real ATT&CK techniques (T1046, T1105, T1078, T1070.004) ▪ Filebeat → Elasticsearch telemetry pipeline on Docker ▪ YAML-driven technique definitions for easy extension ▪ Auto-generates Markdown/JSON coverage gap reports ▪ Resolves DETECTED / NOT_DETECTED per technique |
+| **[🛡️ Serverless SIEM Pipeline](https://github.com/Yush-12/threat-detection-portfolio)** **Next.js SOC Dashboard with Sigma + ATT&CK** ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ▪ 7 Sigma-format detection rules with MITRE ATT&CK enrichment ▪ Multi-stage incident correlation across adversary campaigns ▪ Entity risk scoring with time decay & behavioral profiling ▪ Global threat origins via TopoJSON choropleth ▪ 🔗 [Live Demo](https://threatdetectionportfolio.vercel.app) | **[🧪 Purple Team Detection Validator](https://github.com/Yush-12/purple-team-detection-validator)** **MITRE ATT&CK validation framework** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Elastic](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elastic&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ▪ Simulates real ATT&CK techniques (T1046, T1105, T1078, T1070.004) ▪ Filebeat → Elasticsearch telemetry pipeline on Docker ▪ YAML-driven technique definitions for easy extension ▪ Auto-generates Markdown/JSON coverage gap reports |
 | :--- | :--- |
-| **[🏦 IAM Access Review & SoD Detector](https://github.com/Yush-12/bank-iam-dashboard)** **Banking IAM compliance automation** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-▪ Detects SoD conflicts mapped to RBI IT Framework §3.2 ▪ Orphan account & privilege escalation detection ▪ ISO 27001:2022 Annex A.9 compliance mapping ▪ Auto-generates audit-ready PDF access certification reports ▪ 🔗 [Live Demo](https://bank-iam-dashboard.vercel.app) | **[⚔️ Pentest Report Engine](https://github.com/Yush-12/pentest-report-engine)** **OWASP Top 10 pentest toolkit** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat-square&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-▪ Automated recon (dir enum, tech fingerprinting) ▪ SQLi + JWT exploit modules with Burp proxy integration ▪ Interactive CLI findings tracker → JSON ▪ CVSS v3.1 scored PDF report generation ▪ 🔗 [Live Demo](https://pentest-report-engine.vercel.app) |
+| **[🏦 IAM Access Review & SoD Detector](https://github.com/Yush-12/bank-iam-dashboard)** **Banking IAM compliance automation** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ▪ Detects SoD conflicts mapped to RBI IT Framework §3.2 ▪ Orphan account & privilege escalation detection ▪ ISO 27001:2022 Annex A.9 compliance mapping ▪ Auto-generates audit-ready PDF access certification reports ▪ 🔗 [Live Demo](https://bank-iam-dashboard.vercel.app) | **[⚔️ Pentest Report Engine](https://github.com/Yush-12/pentest-report-engine)** **OWASP Top 10 pentest toolkit** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ▪ Automated recon (dir enum, tech fingerprinting) ▪ SQLi + JWT exploit modules with Burp proxy integration ▪ Interactive CLI findings tracker → JSON ▪ CVSS v3.1 scored PDF report generation ▪ 🔗 [Live Demo](https://pentest-report-engine.vercel.app) |
 
 ---
 
