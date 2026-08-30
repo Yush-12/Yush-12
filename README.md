@@ -3,7 +3,7 @@
 # AAYUSH AWASTHI
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Blue+Team+%7C+Detection+Engineering;Purple+Team+%7C+Offensive+Tooling;I+build+secure+systems,+hunt+threats,+and+validate+defenses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Blue+Team+%7C+Detection+Engineering;Purple+Team+%7C+Offensive+Tooling;I+build+secure+systems,+hunt+threats,+and+validate+defenses" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush0305)
