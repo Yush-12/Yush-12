@@ -18,11 +18,11 @@
 
 ```python
 class Aayush:
-    pronouns: "he | him",
-    location: "India 🇮🇳",
-    focus: ["Blue Teaming", "Threat Detection", "Purple Teaming", "Security Automation"],
-    currentlyBuilding: "IAM dashboards, Purple Team validators, and Pentest reporting engines",
-    askMeAbout: ["MITRE ATT&CK", "Sigma Rules", "SIEM", "Python Security Tools", "Cloud Security"],
+    pronouns: "he | him"
+    location: "India 🇮🇳"
+    focus: ["Blue Teaming", "Threat Detection", "Purple Teaming", "Security Automation"]
+    currentlyBuilding: "IAM dashboards, Purple Team validators, and Pentest reporting engines"
+    askMeAbout: ["MITRE ATT&CK", "Sigma Rules", "SIEM", "Python Security Tools", "Cloud Security"]
     funFact: "I love turning complex security logs into actionable detection pipelines!"
 ```
 
